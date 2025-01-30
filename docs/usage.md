@@ -1,9 +1,16 @@
+---
+next:
+    text: 'HayFrp OPENAPI使用文档'
+    link: '/api-doc'
+---
+
+
 # HayFrp 使用指南
 
 ## 从注册到启动
 
 1. **注册 HayFrp 账户**
-   - 访问控制台：[https://console.hayfrp.com/](https://console.hayfrp.com/)
+   - 访问控制台：[https://console.hayfrp.com/](https://console.hayfrp.com/) 或 [https://console.hayfrp.rcov.top](https://console.hayfrp.rcov.top) **[国内加速 强烈推荐]**
    - 点击“进入控制台”以进入登录页。
    - 在登录页中，点击“没有账户？注册！”以跳转至注册页。
    - 在注册页中，输入用户名、密码、邮箱，点击“发送验证码”。
@@ -11,8 +18,12 @@
    - 如果没有问题，您应该可以注册成功并自动跳转到登录页。
    - 如果没有收到验证码，请在 60s 后再次点击“重新发送验证码”。
 
+::: tip
+官网国内镜像加速地址：https://console.hayfrp.rcov.top **[国内加速]**
+:::
+
 2. **登录 HayFrp 账户**
-   - 进入[登录页](https://console.hayfrp.com/login)。
+   - 进入[登录页](https://console.hayfrp.com/login) 或 [国内地址登录页(国内推荐)](https://console.hayfrp.rcov.top/login)。
    - 在登录页中，输入用户名、密码，点击“登录”。
    - 如果没有问题，您应该可以登录成功并自动跳转到控制台。
 
@@ -125,5 +136,6 @@
 
 - **邮箱**：contact@hayfrp.com
 - **网站**：[https://www.hayfrp.com](https://www.hayfrp.com)
+- **镜像网站[中国大陆加速]**: [https://console.hayfrp.rcov.top](https://console.hayfrp.rcov.top)
 
 我们会在收到您的联系后，尽快给予回复和处理。

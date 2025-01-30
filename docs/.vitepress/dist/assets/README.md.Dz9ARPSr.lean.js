@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a3 as t}from"./chunks/framework.DTP3B4Zp.js";const q=JSON.parse('{"title":"概述","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"},i=t("",27),h=[i];function l(n,d,s,p,c,u){return r(),e("div",null,h)}const _=a(o,[["render",l]]);export{q as __pageData,_ as default};

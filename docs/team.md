@@ -1,3 +1,10 @@
+---
+next:
+    text: 'HayFrp 使用指南'
+    link: '/usage'
+---
+
+
 # 一、站长
 
 `OoyonghongoO` 是 HayFrp 总负责人、HayFrp 发言人，负责 HayFrp 的舆论控制、管理分配等，具有最高的解释说明权。

@@ -1,1 +1,0 @@
-import{_ as a,c as r,o as l,a3 as o}from"./chunks/framework.DTP3B4Zp.js";const f=JSON.parse('{"title":"HayFrp帮助","description":"","frontmatter":{},"headers":[],"relativePath":"help.md","filePath":"help.md"}'),e={name:"help.md"},t=o("",55),i=[t];function n(h,s,p,c,d,g){return l(),r("div",null,i)}const b=a(e,[["render",n]]);export{f as __pageData,b as default};

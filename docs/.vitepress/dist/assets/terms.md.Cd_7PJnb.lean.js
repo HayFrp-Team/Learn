@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a3 as t}from"./chunks/framework.DTP3B4Zp.js";const b=JSON.parse('{"title":"HayFrp用户协议","description":"","frontmatter":{},"headers":[],"relativePath":"terms.md","filePath":"terms.md"}'),h={name:"terms.md"},o=t("",44),l=[o];function i(n,p,d,s,_,c){return r(),e("div",null,l)}const q=a(h,[["render",i]]);export{b as __pageData,q as default};

@@ -1,3 +1,10 @@
+---
+prev:
+  text: 'HayFrp OPENAPI使用文档'
+  link: '/api-doc'
+next: false
+---
+
 # Error Code
 
 ## 1xxxx Backend Error

@@ -26,11 +26,11 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: '知识文档', link: 'README', items: [
-              { text: '什么是HayFrp',  link: 'README', items: [
-                { text: '简介',  link: 'README# HayFrp 简介' },
-                { text: '特性',  link: 'README# HayFrp 特性' },
-                { text: '须知',  link: 'README#使用须知' }
+            text: '知识文档', link: 'what', items: [
+              { text: '什么是HayFrp',  link: 'what', items: [
+                { text: '简介',  link: 'what#hayfrp-简介' },
+                { text: '特性',  link: 'what#hayfrp-特性' },
+                { text: '须知',  link: 'what#使用须知' }
               ] },
               { text: '用户协议',  link: 'terms', items: [
                 { text: '服务内容',  link: 'terms#二、服务内容' },

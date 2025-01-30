@@ -1,6 +1,13 @@
+---
+next:
+    text: '团队架构'
+    link: '/team'
+---
+
+
 # HayFrp 隐私政策
 
-**最后更新时间：2025 年 1 月 10 日**
+**最后更新时间：2025 年 1 月 30 日**
 
 ## 一、引言
 
@@ -85,6 +92,7 @@ HayFrp（中文名：干草内网穿透）是由 HayFrp 团队于 2023 年 8 月
 
 - **邮箱**：contact@hayfrp.com
 - **网站**：[https://www.hayfrp.com](https://www.hayfrp.com)
+- **镜像网站[中国大陆加速]**: [https://console.hayfrp.rcov.top](https://console.hayfrp.rcov.top)
 
 我们会在收到您的联系后，尽快给予回复和处理。
 

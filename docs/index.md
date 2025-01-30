@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /README
+      link: /what
     - theme: alt
       text: 进入官网
       link: https://www.hayfrp.com/

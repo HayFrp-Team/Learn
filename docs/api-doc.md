@@ -1,14 +1,26 @@
+---
+next:
+    text: '常见错误代码'
+    link: '/errcode'
+---
+
 # HayFrp OPENAPI使用文档
 
 > 注意：在调用HayFrp OPENAPI时，请您务必加上标头Headers："waf: off"以绕过雷池防火墙.
 >
 > API地址：https://api.hayfrp.com
 >
+> API镜像地址：**https://api.hayfrp.rcov.top** **[国内加速 推荐]**
+>
 > 警告：禁止使用HayFrp OPENAPI进行任何违法操作，包括但不限于：非法获取他人CSRF并接管账号权限、非法调用OPENAPI进行邮箱发件等
 >
 > 在您使用HayFrp OPENAPI时，请务必标注HayFrp OPENAPI或其他字样，禁止标注对HayFrp OPENAPI不利字样。
 >
 > 使用HayFrp OPENAPI即代表您已同意协议。
+
+::: tip
+API国内镜像加速地址：https://api.hayfrp.rcov.top **[国内加速]**
+:::
 
 # First - 用户账号API（总计9个）
 
